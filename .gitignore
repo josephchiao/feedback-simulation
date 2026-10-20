@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment (recreate with: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt)
+.venv/
+
+# OS and editor clutter
+.DS_Store
+.ipynb_checkpoints/
